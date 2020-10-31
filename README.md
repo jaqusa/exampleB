@@ -1,4 +1,4 @@
-# Exampe Bootstrap
+# Example Bootstrap
 
 
 Code used in the bootstrap library usage example presentation.
