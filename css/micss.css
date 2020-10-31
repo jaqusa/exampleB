@@ -1,0 +1,35 @@
+header {
+  color: white;
+}
+.color {
+  background-color: #27014e;
+}
+#principal {
+  color: #482a48;
+}
+.subtitulo {
+  text-align: center;
+  margin: 40px;
+}
+.fila {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centro {
+  width: 50%;
+  margin: auto;
+}
+#experiencia {
+  margin-top: 5px;
+}
+.experiencia {
+  margin-top: 5px;
+}
+.portafolio {
+  margin-bottom: 20px;
+}
+footer {
+  background-color: #e2cbcd;
+}
